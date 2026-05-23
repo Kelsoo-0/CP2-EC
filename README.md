@@ -51,7 +51,6 @@ Tudo desenvolvido utilizando Arduino e programação em C++.
 ## Código para DHT11:
 
 <details>
-    <sumary>Clique para expandir</sumary>
 
 ```
 #include <Wire.h>
